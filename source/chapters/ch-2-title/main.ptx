@@ -1,0 +1,8 @@
+<chapter xml:id="ch-2-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Title</title>
+
+  <!-- Chapter-specific intro block -->
+  <introduction>
+    <p>In this chapter, we will explore fundamental data structures...</p>
+  </introduction>
+</chapter>
