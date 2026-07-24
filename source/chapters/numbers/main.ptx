@@ -5,7 +5,7 @@
 
   <!-- Chapter-specific intro block -->
   <introduction>
-    <p>In this chapter 1 (title), we will explore fundamental data structures...</p>
+    <p>We will explore fundamental concepts involved with Number Sense.</p>
   </introduction>
 
   <xi:include href="./everyone.ptx" />

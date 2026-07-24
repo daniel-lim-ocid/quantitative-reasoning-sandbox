@@ -3,6 +3,108 @@
 <section xml:id="numbers-everyone" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Everyone Can Reason Quantitatively</title>
 
-  <p> Text of section. </p>
+  <!-- All content before subsections goes inside <introduction> -->
+  <introduction>
+    <p>
+      Here is an unordered list of special characters and content tags:
+    </p>
+    <ul>
+      <li>special characters: &amp;, &gt;, and &lt;</li>
+      <li><em>emphasized text</em></li>
+      <li><q>quoted text</q></li>
+    </ul>
+
+    <p>
+      Here is an ordered list of items:
+    </p>
+    <ol>
+      <li>apple</li>
+      <li>pine</li>
+      <li>pineapple</li>
+    </ol>
+
+    <p>
+      Let's start with some inline math expressions: <m>e = mc^2</m>. Followed by math expressions in its own standalone structure:
+      <md>A = \pi r^2</md>
+    </p>
+
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non ultrices enim. Aenean sodales ligula efficitur purus pharetra imperdiet. Nullam libero leo, rhoncus ac nulla vitae, euismod tempus augue.
+    </p>
+
+    <figure xml:id="numbers-everyone-fig-skateboard">
+      <image source="math-skateboard.jpg">
+        <shortdescription>A brief alt-text for screen readers.</shortdescription>
+      </image>
+      <caption>Skateboarding and the Mathematics of mini-ramps.</caption>
+    </figure>
+
+    <p>
+      <xref ref="data">Data</xref> chapter reference.
+    </p>
+  </introduction>
+
+  <!-- Subsections follow the introduction -->
+  <subsection xml:id="numbers-everyone-identity">
+    <title>Mathematical Identity</title>
+
+    <introduction>
+    <p>
+      Etiam sed ipsum condimentum, iaculis est a, mattis nibh. Maecenas varius porttitor accumsan.
+    </p>
+    </introduction>
+
+    <subsubsection xml:id="numbers-everyone-identity-deeper">
+      <title>Diving Deeper into Identity</title>
+      <p>
+        Integer sit amet ultrices est. Maecenas id quam ante.
+      </p>
+    </subsubsection>
+  </subsection>
+
+  <subsection xml:id="numbers-everyone-norms">
+    <title>Redefining Math Norms</title>
+    <p>
+      Nam sagittis dolor vulputate quam consectetur, sed sodales turpis sodales.
+    </p>
+  </subsection>
+
+  <!-- Exercises are placed in a dedicated division at the end of the section -->
+  <exercises xml:id="exercises-numbers-everyone">
+    <exercise>
+      <statement>
+        <p>
+          Do you know what the quadratic formula is and what it can be used for?
+        </p>
+      </statement>
+      <hint>
+        <p>
+          It's that long equation you learn in Algebra 1
+        </p>
+      </hint>
+      <answer>
+        <p>
+          <m>x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}</m>
+        </p>
+      </answer>
+    </exercise>
+    <exercise>
+      <statement>
+        <p>
+          Do you know what the quadratic formula is and what it can be used for?
+        </p>
+      </statement>
+      <hint>
+        <p>
+          It's that long equation you learn in Algebra 1
+        </p>
+      </hint>
+      <answer>
+        <p>
+          <m>x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}</m>
+        </p>
+      </answer>
+    </exercise>
+  </exercises>
 
 </section>

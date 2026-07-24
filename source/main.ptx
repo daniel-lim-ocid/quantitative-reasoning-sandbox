@@ -5,8 +5,8 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>My Great Book (2.1)</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>Quantitative Reasoning</title>
+    <subtitle>A Rigorous Alternative for Algebra 2</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
