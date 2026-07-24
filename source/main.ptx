@@ -11,8 +11,12 @@
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
     
-    <xi:include href="./chapters/ch-1-title/main.ptx" />
-    <xi:include href="./chapters/ch-2-title/main.ptx" />
+    <xi:include href="./chapters/numbers/main.ptx" />
+    <xi:include href="./chapters/space/main.ptx" />
+    <xi:include href="./chapters/data/main.ptx" />
+    <xi:include href="./chapters/patterns/main.ptx" />
+    <xi:include href="./chapters/uncertainty/main.ptx" />
+    <xi:include href="./chapters/finances/main.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="uncertainty" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Reasoning with Uncertainty</title>
+
+  <!-- Chapter-specific intro block -->
+  <introduction>
+    <p>In this chapter, we will explore fundamental data structures...</p>
+  </introduction>
+</chapter>

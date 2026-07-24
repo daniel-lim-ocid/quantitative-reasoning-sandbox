@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="numbers-estimation"  xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Estimation for Sense Making</title>
+
+  <p>
+    <ul>
+    <li>special characters: &amp;, &gt;, and &lt;</li>
+    <li><em>emphasized text</em></li>
+    <li><q>quoted text</q></li>
+    <li>"hello world"</li>
+    </ul>
+  </p>
+  
+  <p>
+    Praesent a ligula <em>quis nulla viverra</em> lobortis nec et ligula. Aliquam
+    eleifend justo justo, ut tristique leo maximus et. <q>Praesent ut turpis
+    ligula. Sed maximus euismod molestie.</q> Vivamus nec eleifend arcu, in dapibus
+    lacus. Sed fermentum lacus massa, a luctus massa rutrum sit amet. <foreign>Morbi
+    pharetra congue euismod.</foreign> Integer mollis odio et felis porttitor, ac aliquet
+    elit tempor. Nulla nec accumsan diam. Mauris eu purus in lectus aliquam
+    aliquam sit amet vel tellus. Sed posuere elit lacus, sit amet ornare ante
+    efficitur non. Curabitur sit amet tincidunt elit. In hac habitasse platea
+    dictumst.
+  </p>
+
+  <figure>
+    <image source="doe-logo" width="50%">
+        <shortdescription>A brief alt-text for screen readers.</shortdescription>
+    </image>
+    <caption>This is an auto-numbered figure.</caption>
+  </figure>
+
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non
+    ultrices enim. Aenean sodales ligula efficitur purus pharetra imperdiet.
+    Nullam libero leo, rhoncus ac nulla vitae, euismod tempus augue. Integer eu
+    lacus diam. In est magna, rhoncus ut turpis id, mollis ultrices turpis.
+    Donec varius faucibus urna, quis vulputate lectus commodo sit amet. Nunc
+    pellentesque erat sed nunc volutpat, at faucibus turpis euismod. Aenean
+    mauris diam, porttitor in faucibus quis, varius nec sem. Aliquam porta
+    faucibus gravida. Vestibulum ante ipsum primis in faucibus orci luctus et
+    ultrices posuere cubilia curae; Ut elementum sem dui, vitae efficitur mi
+    sodales vel. Nulla a massa nec mi iaculis lobortis a at nisi. Cras tempor
+    facilisis turpis. Donec leo nunc, dictum nec quam ut, blandit sagittis
+    sapien. Pellentesque molestie enim sit amet magna feugiat, in tincidunt urna
+    tristique. Vivamus id leo tortor.
+  </p>
+  
+  <p>
+    <xref ref="numbers-estimation">Link back to top of section</xref>
+  </p>
+  
+</section>

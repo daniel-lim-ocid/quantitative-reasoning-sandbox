@@ -1,5 +1,7 @@
-<section xml:id="module-2-operations">
-  <title>Number Sense (PreText)</title>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="numbers-quantities"  xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Making Sense of Quantities</title>
 
   <p>
     <ul>
@@ -46,7 +48,7 @@
   </p>
   
   <p>
-    <xref ref="module-2-operations">Link back to top of section</xref>
+    <xref ref="numbers-quantities">Link back to top of section</xref>
   </p>
   
 </section>

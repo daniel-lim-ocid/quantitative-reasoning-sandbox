@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<chapter xml:id="numbers" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Reasoning with Numbers</title>
+
+  <!-- Chapter-specific intro block -->
+  <introduction>
+    <p>In this chapter 1 (title), we will explore fundamental data structures...</p>
+  </introduction>
+
+  <xi:include href="./everyone.ptx" />
+  <xi:include href="./quantities.ptx" />
+  <xi:include href="./estimation.ptx" />
+  <xi:include href="./proportionality.ptx" />
+  <xi:include href="./units.ptx" />
+  <xi:include href="./measurement.ptx" />
+
+</chapter>

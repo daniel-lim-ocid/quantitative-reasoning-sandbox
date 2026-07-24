@@ -1,5 +1,7 @@
-<chapter xml:id="ch-2-title" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Title</title>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="finances" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Reasoning with Finances</title>
 
   <!-- Chapter-specific intro block -->
   <introduction>
